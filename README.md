@@ -6,13 +6,13 @@
   
 -  I'm building **real-world projects to strengthen my development skills.**
 
--  I’m currently learning **React js**
+-  I’m currently learning **React js** **Redux ToolKit**
   
 -  My recent projects include:
 
      **CarView:** Explore popular, upcoming, and engine-based cars.
 
-     **Food Delivery App:** Features a menu, restaurant listings, and cart functionality.
+     **Food Delivery Application:** Features a menu, restaurant listings, and cart functionality.
 
      **Weather App:** Provides weather forecasts with a responsive design.
 
